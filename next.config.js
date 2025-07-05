@@ -10,9 +10,9 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    domains: ["placeholder.svg"],
     unoptimized: true,
+    domains: [], // Empty if you're not using external images
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
