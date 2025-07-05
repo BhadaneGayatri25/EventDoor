@@ -249,7 +249,7 @@ export default function EventDoorWebsite() {
             playsInline
             className="absolute inset-0 w-full h-full object-cover"
           >
-            <source src="/4916733-hd_1920_1080_30fps.mp4" type="video/mp4" />
+            <source src="/intro-video.mp4" type="video/mp4" />
           </video>
           <div className="relative z-10 w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 lg:w-[500px] lg:h-[500px]">
             {/* Animated 3D Elements
