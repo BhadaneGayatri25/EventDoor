@@ -131,7 +131,7 @@ export default function EventDoorWebsite() {
                 Event Door
               </h1> */}
               <Image
-                src={darkMode ? "/ED Full White Logo.png" : "/eventdoor logo.png"}
+                src={darkMode ? "/ED-Full-White-Logo.png" : "/eventdoor-logo.png"}
                 alt="Event Door Logo"
                 width={150} // Adjust the width as needed
                 height={40} // Adjust the height as needed
@@ -636,7 +636,7 @@ export default function EventDoorWebsite() {
             <div className="sm:col-span-2 lg:col-span-1">
               <h3 className="mb-6"> {/* Added margin bottom */}
                 <Image
-                src={darkMode ? "/ED Full White Logo.png" : "/ED Full White Logo.png"}
+                src={darkMode ? "/ED-Full-White-Logo.png" : "/ED-Full-White-Logo.png"}
                 alt="Event Door Logo"
                 width={150} // Adjust the width as needed
                 height={40} // Adjust the height as needed
